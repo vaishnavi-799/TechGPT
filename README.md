@@ -1,25 +1,94 @@
-# AI/ML FAQ Chatbot
 
-This is an NLP-based FAQ chatbot built using Flask, NLTK, and Scikit-learn.
+# 🤖 ML Technical FAQ Chatbot (AI + ML + DL + NLP)
 
-## Features
-- FAQ chatbot
-- TF-IDF vectorization
-- Cosine similarity
-- NLP preprocessing
-- Flask backend
-- HTML/CSS frontend
+An intelligent AI-powered Technical FAQ Chatbot built using Flask and Sentence-BERT that understands the semantic meaning of user queries and returns the most relevant technical answer from a FAQ dataset.
 
-## Run Project
+---
 
-Install libraries:
+# 🚀 Project Overview
 
-pip install -r requirements.txt
+This project is a Deep Learning-based NLP chatbot designed to answer technical questions related to Artificial Intelligence, Machine Learning, NLP, Flask, APIs, Databases, and other computer science topics.
 
-Run:
+The chatbot uses Sentence-BERT embeddings and cosine similarity to understand user questions based on meaning instead of exact keyword matching.
 
-python app.py
+---
 
-Open browser:
+## 🤖 AI Techniques
 
-http://127.0.0.1:5000
+* Intelligent chatbot system
+* Automated response generation
+
+---
+
+## 📊 ML Techniques
+
+* Cosine similarity
+* Semantic similarity matching
+
+---
+
+## 🧠 DL Techniques
+
+* Sentence-BERT (Transformer model)
+* Embedding generation
+* Semantic understanding
+
+---
+
+## 🗣️ NLP Techniques
+
+* Sentence processing
+* Semantic search
+* Question answering system
+
+---
+
+# 🛠 Technologies Used
+
+| Layer         | Technology                   |
+| ------------- | ---------------------------- |
+| Backend       | Flask (Python)               |
+| Deep Learning | Sentence-BERT (Transformers) |
+| NLP           | Sentence Transformers        |
+| ML Concept    | Cosine Similarity            |
+| Frontend      | HTML, CSS, JavaScript        |
+| Dataset       | JSON                         |
+
+---
+
+# 📌 Project Workflow
+
+User Question
+↓
+Sentence-BERT Model (Deep Learning)
+↓
+Convert Sentence → Embeddings (Vectors)
+↓
+Cosine Similarity (ML technique)
+↓
+Find Best Matching FAQ
+↓
+Return Answer
+
+---
+
+# 📂 Project Structure
+
+```bash
+technical-faq-chatbot/
+│
+├── app.py
+├── faq.json
+├── requirements.txt
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   ├── style.css
+│   └── script.js
+│
+└── utils/
+    └── preprocess.py
+```
+>>>>>>> 10b5715f833314ceef6ee7eb3e6dda6d0edf202e
