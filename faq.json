@@ -1,0 +1,90 @@
+[
+  {
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence is the simulation of human intelligence in machines."
+  },
+  {
+    "question": "What is AI?",
+    "answer": "AI stands for Artificial Intelligence, which enables machines to think and act like humans."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a subset of AI that enables systems to learn from data."
+  },
+  {
+    "question": "What is ML?",
+    "answer": "ML stands for Machine Learning, a branch of AI that learns from data."
+  },
+  {
+    "question": "What are types of Machine Learning?",
+    "answer": "Types include supervised, unsupervised, and reinforcement learning."
+  },
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning uses labeled data to train models."
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "answer": "Unsupervised learning finds hidden patterns in unlabeled data."
+  },
+  {
+    "question": "What is reinforcement learning?",
+    "answer": "Reinforcement learning learns through rewards and penalties."
+  },
+  {
+    "question": "What is Deep Learning?",
+    "answer": "Deep Learning is a subset of Machine Learning based on neural networks."
+  },
+  {
+    "question": "What are neural networks?",
+    "answer": "Neural networks are computing systems inspired by the human brain."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "Natural Language Processing helps computers understand human language."
+  },
+  {
+    "question": "What is Python used for in AI?",
+    "answer": "Python is widely used in AI because of its simplicity and powerful libraries."
+  },
+  {
+    "question": "What is TF-IDF?",
+    "answer": "TF-IDF is a technique to convert text into numerical form."
+  },
+  {
+    "question": "What is cosine similarity?",
+    "answer": "Cosine similarity measures how similar two texts are."
+  },
+  {
+    "question": "What is Flask?",
+    "answer": "Flask is a lightweight Python web framework."
+  },
+  {
+    "question": "What is chatbot?",
+    "answer": "A chatbot is a program that simulates human conversation."
+  },
+  {
+    "question": "What is API?",
+    "answer": "API allows communication between software applications."
+  },
+  {
+    "question": "What is frontend?",
+    "answer": "Frontend is the user interface of a web application."
+  },
+  {
+    "question": "What is backend?",
+    "answer": "Backend handles server-side logic and database operations."
+  },
+  {
+    "question": "What is database?",
+    "answer": "A database stores and manages data efficiently."
+  },
+  {
+    "question": "What is deployment?",
+    "answer": "Deployment is making an application available to users."
+  },
+  {
+    "question": "What is AI used for?",
+    "answer": "AI is used in automation, chatbots, healthcare, and more applications."
+  }
+]
