@@ -95,26 +95,26 @@ technical-faq-chatbot/
 
 ```bash
 # 1. Clone the repository
-        git clone https://github.com/your-username/technical-faq-chatbot.git
+git clone https://github.com/your-username/TechGPT.git
 
 # 2. Move into project folder
-        cd TechGPT
+cd TechGPT
 
 # 3. Create virtual environment 
-        python -m venv venv
+ python -m venv venv
 
 # 4. Activate virtual environment
-        # Windows:
-        venv\Scripts\activate
+# Windows:
+ venv\Scripts\activate
         
-        # Mac/Linux:
-        source venv/bin/activate
+# Mac/Linux:
+source venv/bin/activate
 
 # 5. Install required dependencies
-        pip install -r requirements.txt
+pip install -r requirements.txt
 
 # 6. Run Flask application
-        python app.py
+python app.py
 
 # 7. Open browser and go to:
-        http://127.0.0.1:5000/
+http://127.0.0.1:5000/
