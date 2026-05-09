@@ -91,4 +91,30 @@ technical-faq-chatbot/
 └── utils/
     └── preprocess.py
 ```
->>>>>>> 10b5715f833314ceef6ee7eb3e6dda6d0edf202e
+## ⚙️ How to Run This Project (Step-by-Step)
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/technical-faq-chatbot.git
+
+# 2. Move into project folder
+cd technical-faq-chatbot
+
+# 3. Create virtual environment (recommended)
+python -m venv venv
+
+# 4. Activate virtual environment
+# Windows:
+venv\Scripts\activate
+
+# Mac/Linux:
+source venv/bin/activate
+
+# 5. Install required dependencies
+pip install -r requirements.txt
+
+# 6. Run Flask application
+python app.py
+
+# 7. Open browser and go to:
+http://127.0.0.1:5000/
